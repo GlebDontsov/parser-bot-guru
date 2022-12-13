@@ -1,0 +1,9 @@
+{
+    "pmin": 200,
+    "pmax": 450,
+    "game[]": 730,
+    "origin[]": "brute",
+    "no_vac": 1,
+    "recently_hours_max": 0,
+    "order_by": "pdate_to_down"
+}

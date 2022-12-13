@@ -1,0 +1,3 @@
+token_guru:<YOUR token>
+API_KEY_Telegram:<BOT token>
+USER_ID_Telegram:<YOUR ID tg>
